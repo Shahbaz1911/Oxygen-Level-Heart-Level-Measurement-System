@@ -1,2 +1,2 @@
 # Oxygen-Level-Heart-Level-Measurement-System
-A hardware-based system designed to measure oxygen saturation (SpO2) and heart rate using the MAX30102 sensor. The system integrates with an Arduino microcontroller and displays real-time data on an OLED screen. This project demonstrates expertise in embedded systems and sensor interfacing, providing accurate health monitoring for medical applications.
+A hardware-based system designed to measure oxygen saturation (SpO2) and heart rate using the MAX30102 sensor. The system integrates with an Arduino Nano microcontroller and displays real-time data on an LCD screen. This project demonstrates expertise in embedded systems and sensor interfacing, providing accurate health monitoring for medical applications.
