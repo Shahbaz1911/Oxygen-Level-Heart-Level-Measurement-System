@@ -245,6 +245,7 @@ We welcome contributions! Please follow these guidelines:
 - 🔧 **Arduino Documentation**: [Arduino Official Docs](https://docs.arduino.cc/)
 - 📚 **Pulse Oximetry Principles**: [Medical references]
 - 🛠️ **Embedded Systems**: [Learning resources]
+- [View PDF](./image/minor-project.pdf)
 
 ## 📄 License
 
