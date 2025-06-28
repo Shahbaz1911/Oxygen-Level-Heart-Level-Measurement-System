@@ -46,6 +46,10 @@ This hardware-based health monitoring system provides **real-time measurement** 
 
 ## 🔌 Circuit Diagram & Connections
 
+
+
+![Screenshot](./image/project.png)
+
 ### **MAX30102 Sensor to Arduino Nano**
 ```
 MAX30102    Arduino Nano
