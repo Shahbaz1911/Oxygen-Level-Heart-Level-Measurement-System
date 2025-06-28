@@ -256,7 +256,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 🌐 **Portfolio**: [https://shahbaz1911.netlify.app/](https://shahbaz1911.netlify.app/)
 - 📧 **Email**: shahbazkhan19111@gmail.com
 - 💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐙 **GitHub**: [github.com/yourusername](https://github.com/Shahbaz1911)
+- 🐙 **GitHub**: [github.com/Shahbaz1911](https://github.com/Shahbaz1911)
 
 ## 🙏 Acknowledgments
 
